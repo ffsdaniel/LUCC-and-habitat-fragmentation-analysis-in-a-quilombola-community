@@ -1,0 +1,2 @@
+# LUCC-and-habitat-fragmentation-analysis-in-a-quilombola-community
+This notebook presents the methodology used in a study on the analysis of land use and land cover change (LUCC) and habitat fragmentation in a traditional quilombola community in Minas Gerais, Brazil. The work was carried out using Python 3.12 and libraries such as `geopandas`, `rasterio`, `scikit-learn`, `pylandstats` and `scipy`.
